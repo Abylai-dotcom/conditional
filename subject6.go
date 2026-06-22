@@ -18,6 +18,7 @@ func main() {
 	fmt.Println(true || false)          // true
 	fmt.Println((4+6 == 10) && (9 > 2)) // true
 	fmt.Println((12/3 == 4) || (8 < 5)) // true
+	
 
 	// sub 2
 
